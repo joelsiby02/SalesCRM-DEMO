@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-genai
+langchain-google-genai
+langchain
+langchain-community
+crewai
+chromadb
+python-dotenv
+langchain-chroma
+xlrd
+openpyxl
